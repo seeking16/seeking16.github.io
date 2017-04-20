@@ -863,7 +863,8 @@ body {
     -webkit-box-orient: horizontal;
     -webkit-box-pack: center;
     -webkit-box-align: center;
-    text-align: center
+    text-align: center;
+    color:white;
 }
 
 .left-col #header .profilepic img {
